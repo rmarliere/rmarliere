@@ -1,0 +1,2 @@
+- name: GRS Action
+  uses: Zo-Bro-23/grs-action@v0.0.1
